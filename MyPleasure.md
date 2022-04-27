@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vw0901
 - 👀 I’m interested in computer studying and games.
 - 🌱 I’m currently learning Unity and computer graphics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creating games.
 - 📫 How to reach me ==> My QQ:3497262474
 
 <!---
